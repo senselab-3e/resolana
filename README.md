@@ -1,4 +1,4 @@
-# Resolana
+# resolana
 pop-fab-chat
 
 * Source code - 'resolana', the file server.js is ready to work through a dynamic server - http://resolana.herokuapp.com ~ 
